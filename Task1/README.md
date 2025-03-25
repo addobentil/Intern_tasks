@@ -38,4 +38,9 @@ This task is part of **Outreachy 30: Addressing the new Lusophone Technological 
      - Insert this formatted text into the HTML element with `id="results"`.
 
 3. **Test your script**:
+
    - Open the HTML file in a browser and verify the output.
+
+4. **Output**
+   ![Output1](ss2.png)
+   ![Output2](ss3.png)

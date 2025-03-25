@@ -42,8 +42,12 @@ This task is part of **Outreachy 30: Addressing the new Lusophone Technological 
    - Print meaningful messages for timeouts, SSL errors, or unreachable websites.
 
 4. **Run and Verify**:
+
    - Execute the script using:
      ```sh
      python script.py
      ```
    - Ensure correct status codes are retrieved.
+
+5. **Output**
+   ![Project Output](python_task_output.png)
