@@ -50,4 +50,4 @@ This task is part of **Outreachy 30: Addressing the new Lusophone Technological 
    - Ensure correct status codes are retrieved.
 
 5. **Output**
-   ![Project Output](python_task_output.png)
+   ![Project Output](task2-output.png)
