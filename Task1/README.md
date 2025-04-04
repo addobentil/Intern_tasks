@@ -42,5 +42,5 @@ This task is part of **Outreachy 30: Addressing the new Lusophone Technological 
    - Open the HTML file in a browser and verify the output.
 
 4. **Output**
-   ![Output1](ss2.png)
+   ![Output1](username-screenshot.png)
    ![Output2](ss3.png)
